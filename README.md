@@ -1,91 +1,103 @@
-<!-- Banner Image -->
+<!-- ==================== Banner Image ==================== -->
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Banner" />
+  <img src="https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1350&q=80" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Jannat 👋</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Open Source Contributor</h3>
+<!-- ==================== Name & Designation ==================== -->
+<h1 align="center">Hi 👋, I'm <span style="color:#00BFFF">Jannat</span></h1>
+<h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Open Source Contributor</h3>
 
 ---
 
-### 👩‍💻 About Me
+<!-- ==================== About Me ==================== -->
+### 👋 About Me
 
-I am a passionate full stack developer from Bangladesh.  
-I love building full-featured web applications using modern technologies.  
-Currently focusing on developing scalable apps using the MERN stack.  
-Always eager to learn and collaborate on interesting projects.
-
----
-
-### 🚀 Current Activities
-
-- 🌱 I’m exploring **Next.js**  
-- 💼 Working on a **Tourism Website** project  
-- ✍️ Writing blog posts about **React and MongoDB**  
-- 🎯 Learning about **Performance Optimization**
+Passionate full stack developer specialized in building scalable web applications  
+with the MERN stack. I enjoy turning ideas into reality using clean and maintainable code.  
+Currently diving deep into **Next.js** and modern React patterns.
 
 ---
 
+<!-- ==================== Current Activities ==================== -->
+### 🚀 What I'm Doing
+
+- 🌱 Learning and experimenting with **Next.js** and **TypeScript**  
+- 💻 Building a **Tourism Website** using React & Node.js  
+- 📝 Writing articles on **Web Development** and **Performance Optimization**  
+- 🎯 Contributing to open-source projects and mentoring juniors
+
+---
+
+<!-- ==================== Skills ==================== -->
 ### 🛠️ Skills
 
-#### 🧩 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
+<div align="center">
+  <!-- Frontend -->
+  <b>Frontend</b><br />
+  <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img alt="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="60" height="40"/>
 
-#### 🧩 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
+  <br /><br />
 
-#### ⚙️ Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma" />
-</p>
+  <!-- Backend -->
+  <b>Backend</b><br />
+  <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img alt="Express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" height="40"/>
+  <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img alt="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+
+  <br /><br />
+
+  <!-- Tools -->
+  <b>Tools & DevOps</b><br />
+  <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+  <img alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+</div>
 
 ---
 
+<!-- ==================== Social Links ==================== -->
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jannatullferdouss/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/jannatulferdou/jannatulferdou/)
+<p align="center">
+  <a href="https://github.com/yourusername" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 ---
 
+<!-- ==================== GitHub Stats ==================== -->
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
-> 🔗 Replace all `yourusername` and `yourprofile` with your actual GitHub and LinkedIn usernames.  
-> 🎨 You can find more icons at [https://skillicons.dev](https://skillicons.dev)
-
----
-
-## ✅ STEP 3: Commit & Preview
-
-1. After editing, **commit** the changes.
-2. Preview your profile at `https://github.com/yourusername`.
-
----
-
-
-
-
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- [GitHub Streak Stats](https://github.com/denvercoder1/github-readme-streak-stats)
-- [Skill Icons](https://skillicons.dev/)
 
 ---
 
