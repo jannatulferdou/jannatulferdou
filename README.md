@@ -1,13 +1,99 @@
-<h1 align="center">Hi 👋, I'm Jannatul Ferdous</h1>
-<h3 align="center">I’m an aspiring Front-End Developer, passionate about crafting visually appealing and responsive web interfaces. My current journey involves mastering tools and frameworks essential for modern front-end development.</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jannatullferdouss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jannatullferdouss/" height="30" width="40" /></a>
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://your-banner-image-url.com/banner.png" alt="Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi, I'm Jannat 👋</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | Open Source Contributor</h3>
+
+---
+
+### 👩‍💻 About Me
+
+I am a passionate full stack developer from Bangladesh.  
+I love building full-featured web applications using modern technologies.  
+Currently focusing on developing scalable apps using the MERN stack.  
+Always eager to learn and collaborate on interesting projects.
+
+---
+
+### 🚀 Current Activities
+
+- 🌱 I’m exploring **Next.js**  
+- 💼 Working on a **Tourism Website** project  
+- ✍️ Writing blog posts about **React and MongoDB**  
+- 🎯 Learning about **Performance Optimization**
+
+---
+
+### 🛠️ Skills
+
+#### 🧩 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+#### 🧩 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+#### ⚙️ Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/yourprofile)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/yourusername)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+> 🔗 Replace all `yourusername` and `yourprofile` with your actual GitHub and LinkedIn usernames.  
+> 🎨 You can find more icons at [https://skillicons.dev](https://skillicons.dev)
+
+---
+
+## ✅ STEP 3: Commit & Preview
+
+1. After editing, **commit** the changes.
+2. Preview your profile at `https://github.com/yourusername`.
+
+---
 
 
 
+
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [GitHub Streak Stats](https://github.com/denvercoder1/github-readme-streak-stats)
+- [Skill Icons](https://skillicons.dev/)
+
+---
+
+Would you like me to generate the complete markdown file with your info filled in? If yes, please provide:
+- Your GitHub username
+- Your designation (e.g., Full Stack Developer)
+- Current activities (e.g., learning Next.js, etc.)
+- Social links (GitHub, LinkedIn)
+- Skills (frontend, backend, tools)
+
+I'll give you a ready-to-paste `README.md`.
