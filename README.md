@@ -1,95 +1,98 @@
-<!-- =================== HERO BANNER =================== -->
+ <!-- ==================== Banner Image ==================== -->
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/assets/banner.png" width="100%" alt="Banner Image"/>
+  <img src="https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1350&q=80" alt="Banner" width="100%" />
 </p>
 
-<!-- =================== HEADING =================== -->
-<h1 align="center">Hey there! 👋 I'm <span style="color:#00BFFF">Jannat</span></h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Specialist | Open Source Advocate</h3>
+<!-- ==================== Name & Designation ==================== -->
+<h1 align="center">Hi 👋, I'm <span style="color:#00BFFF">Jannat</span></h1>
+<h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Open Source Contributor</h3>
 
 ---
 
-<!-- =================== SHORT ABOUT =================== -->
-### 💡 About Me
+<!-- ==================== About Me ==================== -->
+### 👋 About Me
 
-I'm a passionate and curious Full Stack Developer from Bangladesh 🇧🇩  
-I specialize in building full-featured web apps using the MERN stack.  
-I love solving real-world problems with elegant code and clean UI/UX.  
-Always open to learning, collaboration, and new technologies.
-
----
-
-<!-- =================== CURRENT ACTIVITIES =================== -->
-### ⚡ What I'm Currently Up To
-
-- 🔭 Building a dynamic **Tourism Website** with modern stack  
-- ⚙️ Exploring **Next.js** and **Server Components**  
-- ✍️ Writing blog articles on **MongoDB + React performance**  
-- 🛠️ Contributing to open-source & mentoring junior devs  
-- 🌱 Learning **Advanced TypeScript** and **Testing (Jest)**  
+Passionate full stack developer specialized in building scalable web applications  
+with the MERN stack. I enjoy turning ideas into reality using clean and maintainable code.  
+Currently diving deep into **Next.js** and modern React patterns.
 
 ---
 
-<!-- =================== SKILLS =================== -->
-### 🧠 Tech Stack & Tools
+<!-- ==================== Current Activities ==================== -->
+### 🚀 What I'm Doing
+
+- 🌱 Learning and experimenting with **Next.js** and **TypeScript**  
+- 💻 Building a **Tourism Website** using React & Node.js  
+- 📝 Writing articles on **Web Development** and **Performance Optimization**  
+- 🎯 Contributing to open-source projects and mentoring juniors
+
+---
+
+<!-- ==================== Skills ==================== -->
+### 🛠️ Skills
 
 <div align="center">
+  <!-- Frontend -->
+  <b>Frontend</b><br />
+  <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img alt="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="60" height="40"/>
 
-#### 🖼️ Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" /><br/><br/>
+  <br /><br />
 
-#### 🔧 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" /><br/><br/>
+  <!-- Backend -->
+  <b>Backend</b><br />
+  <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img alt="Express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" height="40"/>
+  <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img alt="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
 
-#### ⚙️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,docker" /><br/><br/>
+  <br /><br />
 
-#### 🎨 UI & Design
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" /><br/>
-
+  <!-- Tools -->
+  <b>Tools & DevOps</b><br />
+  <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+  <img alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 </div>
 
 ---
 
-<!-- =================== SOCIAL LINKS =================== -->
-### 🌍 Connect With Me
+<!-- ==================== Social Links ==================== -->
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  &nbsp;
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<!-- =================== GITHUB STATS =================== -->
+<!-- ==================== GitHub Stats ==================== -->
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
 </p>
 
----
-
-<!-- =================== QUOTE =================== -->
-### 💬 Quote I Live By
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
-
-<!-- =================== FOOTER =================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Let's+build+something+great+together!+💻🚀" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
 </p>
