@@ -22,9 +22,8 @@ Currently diving deep into **Next.js** and modern React patterns.
 ### 🚀 What I'm Doing
 
 - 🌱 Learning and experimenting with **Next.js** and **TypeScript**  
-- 💻 Building a **Tourism Website** using React & Node.js  
-- 📝 Writing articles on **Web Development** and **Performance Optimization**  
-- 🎯 Contributing to open-source projects and mentoring juniors
+- 💻 Making my **climate-forum** website more better & user-friendly
+- 🎯 Contributing to open-source projects 
 
 ---
 
@@ -67,17 +66,14 @@ Currently diving deep into **Next.js** and modern React patterns.
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/jannatulferdou/jannatulferdou" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/jannatullferdouss/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  
 </p>
 
 ---
