@@ -83,7 +83,7 @@ Currently diving deep into **Next.js** and modern React patterns.
 
 <p align="center">
  
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=" alt="GitHub Streak" /></a>
+  <a href="https://github.com/jannatulferdou"><img src="https://streak-stats.demolab.com?user=" alt="GitHub Streak" /></a>
 </p>
 
 
