@@ -54,7 +54,7 @@ Currently, I’m diving deep into **Next.js**, modern React patterns, and perfor
 
 ### **Deployment & Package Managers**
 <img alt="Vercel" src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40"/>
-<img alt="Netlify" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40" />
+<img alt="Netlify" src="https://i.ibb.co.com/DHT0c2rN/netlify-icon-logo-png-seeklogo-477950.png" width="40" height="40" />
 <img alt="npm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="50" height="40"/>
 <img alt="PowerShell" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="40" height="40"/>
 
