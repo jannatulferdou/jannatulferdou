@@ -1,6 +1,6 @@
 <!-- ==================== Banner Image ==================== -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1350&q=80" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/vvx0CTZ0/github-cover-photo.jpg" alt="Banner" width="100%" />
 </p>
 
 <!-- ==================== Name & Designation ==================== -->
