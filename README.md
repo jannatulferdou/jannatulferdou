@@ -4,7 +4,7 @@
 </p>
 
 <!-- ==================== Name & Designation ==================== -->
-<h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Jannat</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Jannatul Ferdous</span></h1>
 <h3 align="center">💻 Full Stack Developer | MERN Stack Enthusiast | Open Source Contributor</h3>
 
 ---
