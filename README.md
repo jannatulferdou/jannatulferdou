@@ -39,7 +39,9 @@ Currently, I’m diving deep into **Next.js**, modern React patterns, and perfor
 <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
 <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+<img alt="React Router" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" width="40" height="40"/>
 <img alt="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="60" height="40"/>
+<img alt="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
 
 ---
 
@@ -51,12 +53,24 @@ Currently, I’m diving deep into **Next.js**, modern React patterns, and perfor
 
 ---
 
-### **Tools & DevOps**
+### **Deployment & Package Managers**
+<img alt="Vercel" src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40"/>
+<img alt="Netlify" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40"/>
+<img alt="npm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="50" height="40"/>
+<img alt="PowerShell" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="40" height="40"/>
+
+---
+
+### **Tools & Design**
 <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 <img alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
 <img alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
 <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
 <img alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+<img alt="Adobe Photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
+<img alt="Adobe Illustrator" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" width="40" height="40"/>
+<img alt="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+<img alt="Canva" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Canva_Logo.png" width="40" height="40"/>
 
 </div>
 
