@@ -1,181 +1,119 @@
-<!-- ==================== HERO ==================== -->
-
 <div align="center">
 
-<img src="https://i.ibb.co.com/vvx0CTZ0/github-cover-photo.jpg" alt="Jannatul Ferdous - Full Stack Developer" width="100%"/>
+# Jannatul Ferdous
 
-<br/>
+**Full Stack Developer**
 
-# Hi 👋, I'm Jannatul Ferdous
-
-### Full Stack Developer | MERN Stack | Next.js | React Native
+Building scalable web applications with **React, Next.js, Node.js, PostgreSQL & MongoDB.**
 
 <p>
-  <a href="https://github.com/jannatulferdou">
-    <img src="https://komarev.com/ghpvc/?username=jannatulferdou&label=Profile%20Views&style=flat-square" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/jannatulferdou?tab=followers">
-    <img src="https://img.shields.io/github/followers/jannatulferdou?label=Followers&style=flat-square" alt="Followers"/>
-  </a>
+  <a href="https://github.com/jannatulferdou">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/in/jannatullferdouss/">LinkedIn</a>
 </p>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About
 
-I'm a **Full Stack Developer** passionate about building modern, scalable, and user-friendly web applications.
+I'm a full-stack developer focused on building reliable, maintainable, and user-centered software.
 
-I enjoy turning ideas into real-world products with clean architecture, maintainable code, and intuitive user experiences.
+My work spans modern frontend development, backend API design, relational and non-relational databases, and increasingly, mobile and containerized applications.
 
-* 💻 Building full-stack applications with **MERN & Next.js**
-* 📱 Exploring mobile development with **React Native**
-* 🗄️ Working with **MongoDB & PostgreSQL**
-* 🔌 Building **RESTful APIs** with Node.js & Express.js
-* 🔐 Implementing authentication with **JWT & Firebase**
-* 🧩 Working with **Prisma ORM**
-* 🐳 Exploring **Docker & containerized development**
-* 🎨 Interested in UI/UX and modern interface design
-* 🌱 Always learning and improving
+I care about **clean architecture, developer experience, performance, and solving problems properly** rather than simply making things work.
 
 ---
 
-## 🛠️ Tech Stack
+## Stack
 
-### Languages
+**Languages**
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</p>
+`JavaScript` `TypeScript` `HTML` `CSS`
 
-### Frontend
+**Frontend**
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
+`React` `Next.js` `React Router` `React Native` `Tailwind CSS`
 
-**React.js · React Router · Next.js · React Native · Tailwind CSS**
+**Backend**
 
-### Backend
+`Node.js` `Express.js` `REST APIs` `JWT` `CORS`
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+**Data**
 
-**Node.js · Express.js · RESTful APIs · JWT Authentication · CORS**
+`PostgreSQL` `MongoDB` `Firebase` `Prisma` `ER Modeling`
 
-### Database & ORM
+**Infrastructure & Tools**
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,firebase" />
-</p>
+`Docker` `Git` `GitHub` `Postman` `Vercel` `Netlify` `VS Code`
 
-**MongoDB · PostgreSQL · Prisma · Firebase · ER Diagram · Database Design**
+**Design**
 
-### DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel,netlify" />
-</p>
-
-**Docker · Git · GitHub · VS Code · Postman · Vercel · Netlify · npm · PowerShell**
-
-### Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-</p>
-
-**Figma · Adobe Photoshop · Adobe Illustrator**
+`Figma` `Adobe Photoshop` `Adobe Illustrator`
 
 ---
 
-## 🚀 Featured Project
+## Selected Work
 
-### 🌱 Climate Forum
+> A selection of projects I'm building and maintaining.
 
-A community-focused platform built to encourage discussion and awareness around climate-related topics.
+### Recent Projects
 
-**Tech Stack**
+**See my pinned repositories below for my latest work.**
 
-`React.js` `Node.js` `Express.js` `MongoDB` `Firebase` `Tailwind CSS`
-
-**Highlights**
-
-* Responsive and user-friendly interface
-* Full-stack architecture
-* Authentication & user management
-* Community-focused features
-* Continuous improvement and feature development
+I use my repositories to experiment with new technologies, build complete products, and explore different approaches to frontend architecture, backend development, databases, and deployment.
 
 ---
 
-## 📌 What I'm Currently Working On
+## Engineering Interests
 
-```text
-▸ Next.js & TypeScript
-▸ React Native
-▸ PostgreSQL & Prisma
-▸ REST API Architecture
-▸ Docker & Deployment
-▸ Advanced Backend Development
-```
+* Full-stack application architecture
+* RESTful API design
+* Relational database design
+* PostgreSQL & Prisma
+* Modern React patterns
+* Next.js application development
+* Cross-platform development with React Native
+* Docker & containerized applications
+* Performance and maintainability
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jannatulferdou&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jannatulferdou&show_icons=true&hide_border=true&theme=transparent" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannatulferdou&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannatulferdou&layout=compact&hide_border=true&theme=transparent" height="165"/>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jannatulferdou&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=jannatulferdou&hide_border=true&theme=transparent" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## Currently
 
-<div align="center">
+Working across the full stack — from interfaces and APIs to database design and deployment.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jannatulferdou&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+Currently exploring deeper use of:
 
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/jannatulferdou">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/jannatullferdouss/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
+**Next.js · TypeScript · PostgreSQL · Prisma · React Native · Docker**
 
 ---
 
 <div align="center">
 
-### 💡 Building with purpose. Learning every day. Shipping better.
+### Let's build something meaningful.
 
-<br/>
-
-**Thanks for visiting my profile! ⭐**
+**[GitHub](https://github.com/jannatulferdou) · [LinkedIn](https://www.linkedin.com/in/jannatullferdouss/)**
 
 </div>
