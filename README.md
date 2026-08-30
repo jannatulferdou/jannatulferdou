@@ -1,132 +1,225 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         HERO SECTION                            -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# Jannatul Ferdous
+<img src="https://i.ibb.co.com/vvx0CTZ0/github-cover-photo.jpg" width="100%" alt="Jannatul Ferdous"/>
 
-### Full Stack Developer
+<br/><br/>
 
-**Crafting modern web applications with thoughtful architecture, clean interfaces, and scalable backend systems.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+TypeScript;Building+products%2C+not+just+websites." alt="Typing SVG"/>
 
-<br />
+<br/>
 
-<a href="https://github.com/jannatulferdou">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/jannatullferdouss/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
+<p>
+  <a href="https://github.com/jannatulferdou">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jannatullferdouss/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
-<br />
+<br/>
 
 ---
 
-## About
-
-I'm a **Full Stack Developer** who enjoys taking an idea from interface to implementation.
-
-My primary focus is modern JavaScript development, with experience across **React, Next.js, Node.js, Express, MongoDB, and PostgreSQL**.
-
-I'm particularly interested in backend architecture, database design, API development, and building applications that remain maintainable as they grow.
-
-Outside the web stack, I'm exploring **React Native and Docker** to broaden how I build, deploy, and ship software.
-
----
-
-## What I Build
+## `01` — WHO AM I?
 
 ```text
-Frontend        React · Next.js · TypeScript · Tailwind CSS
-Backend         Node.js · Express · REST APIs · JWT
-Data            PostgreSQL · MongoDB · Prisma · Firebase
-Mobile          React Native
-Infrastructure  Docker · Vercel · Netlify
-Workflow        Git · GitHub · Postman · VS Code
-Design          Figma · Photoshop · Illustrator
+Jannatul Ferdous
+────────────────────────────────────────────
+
+Role        Full Stack Developer
+Focus       Web Applications • APIs • Databases
+Frontend    React • Next.js • TypeScript
+Backend     Node.js • Express.js
+Data        PostgreSQL • MongoDB • Prisma
+Mobile      React Native
+Infra       Docker • Vercel • Netlify
+
+Currently → building, experimenting & going deeper.
 ```
 
----
+I like building software from **interface to database**—not just writing
+components, but understanding how the whole system fits together.
 
-## Selected Work
-
-### Projects
-
-My repositories are where I experiment, build, and turn ideas into working products.
-
-I focus on projects that give me the opportunity to work across the stack—from designing interfaces and APIs to modelling databases and deploying applications.
-
-<br />
-
-> **Explore my pinned repositories ↓**
+My interests sit at the intersection of **product development, frontend
+engineering, backend architecture, and database design**.
 
 ---
 
-## Engineering
+## `02` — THE STACK
 
-### Frontend
+<table>
+<tr>
+<td valign="top" width="50%">
 
-Building responsive interfaces with **React, Next.js, TypeScript, and Tailwind CSS**, with an emphasis on reusable components, clean UI architecture, and maintainable code.
+### FRONTEND
 
-### Backend
+```text
+React.js
+Next.js
+TypeScript
+JavaScript
+React Router
+React Native
+Tailwind CSS
+HTML / CSS
+```
 
-Designing **RESTful APIs** with Node.js and Express, implementing authentication with JWT, and structuring backend systems for clarity and scalability.
+</td>
 
-### Database
+<td valign="top" width="50%">
 
-Working with both relational and NoSQL systems, including **PostgreSQL, MongoDB, Firebase, and Prisma**, with an interest in proper schema design and ER modelling.
+### BACKEND
 
-### Deployment
+```text
+Node.js
+Express.js
+RESTful APIs
+JWT Authentication
+CORS
+```
 
-Using **Docker, Vercel, and Netlify** to move applications from development to production.
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### DATA
+
+```text
+PostgreSQL
+MongoDB
+Prisma
+Firebase
+ER Diagram
+Database Design
+```
+
+</td>
+
+<td valign="top">
+
+### DEVOPS / TOOLS
+
+```text
+Docker
+Git
+GitHub
+Postman
+VS Code
+Vercel
+Netlify
+npm
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Current Direction
+## `03` — WHAT I CARE ABOUT
 
-I'm currently going deeper into:
-
-**Next.js · TypeScript · PostgreSQL · Prisma · React Native · Docker**
-
-The goal isn't simply to learn more technologies—it's to become better at **designing and shipping complete software systems.**
+<table>
+<tr>
+<td>⚡ <b>Performance</b><br/>Fast, responsive experiences.</td>
+<td>🧩 <b>Architecture</b><br/>Systems that stay maintainable.</td>
+</tr>
+<tr>
+<td>🎯 <b>User Experience</b><br/>Interfaces that feel intentional.</td>
+<td>🗄️ <b>Data</b><br/>Thoughtful schemas & relationships.</td>
+</tr>
+</table>
 
 ---
 
-## GitHub
+## `04` — SELECTED WORK
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jannatulferdou&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannatulferdou&layout=compact&hide_border=true&theme=transparent" height="165" />
+### ↓ Explore my pinned repositories ↓
 
 </div>
 
-<br />
+<br/>
+
+I use my repositories as a laboratory for building complete products,
+experimenting with new technologies, and solving real development problems.
+
+**Full-stack applications · APIs · database systems · mobile experiments · deployment**
+
+> The projects I'm most proud of are pinned directly on my profile.
+
+---
+
+## `05` — CURRENTLY EXPLORING
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jannatulferdou&hide_border=true&theme=transparent" />
+`NEXT.JS`   `TYPESCRIPT`   `POSTGRESQL`   `PRISMA`
+`REACT NATIVE`   `DOCKER`   `BACKEND ARCHITECTURE`
+
+</div>
+
+<br/>
+
+I'm interested in going beyond individual technologies and getting better
+at **designing complete, production-ready systems**.
+
+---
+
+## `06` — GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jannatulferdou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=C9D1D9" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannatulferdou&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9" height="170"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=jannatulferdou&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"/>
 
 </div>
 
 ---
 
-## Let's Connect
+## `07` — BEYOND CODE
 
-If you're interested in **building products, collaborating on projects, or discussing technology**, feel free to reach out.
+**Leadership · Teamwork · Communication · Adaptability · Volunteering**
+
+I enjoy working with people, sharing ideas, taking responsibility, and
+learning through collaboration.
+
+---
 
 <div align="center">
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
+
+### Let's build something worth shipping.
 
 <a href="https://github.com/jannatulferdou">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/jannatullferdouss/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIEW_MY_WORK-00BFFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-<br /><br />
+<br/><br/>
 
-**Build thoughtfully. Ship consistently. Keep learning.**
+<sub>Designed with intent · Built with curiosity · Always evolving</sub>
 
 </div>
