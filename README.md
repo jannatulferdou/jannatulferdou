@@ -2,81 +2,92 @@
 
 # Jannatul Ferdous
 
-**Full Stack Developer**
+### Full Stack Developer
 
-Building scalable web applications with **React, Next.js, Node.js, PostgreSQL & MongoDB.**
+**Crafting modern web applications with thoughtful architecture, clean interfaces, and scalable backend systems.**
 
-<p>
-  <a href="https://github.com/jannatulferdou">GitHub</a>
-  ·
-  <a href="https://www.linkedin.com/in/jannatullferdouss/">LinkedIn</a>
-</p>
+<br />
+
+<a href="https://github.com/jannatulferdou">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/jannatullferdouss/">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
+
+<br />
 
 ---
 
 ## About
 
-I'm a full-stack developer focused on building reliable, maintainable, and user-centered software.
+I'm a **Full Stack Developer** who enjoys taking an idea from interface to implementation.
 
-My work spans modern frontend development, backend API design, relational and non-relational databases, and increasingly, mobile and containerized applications.
+My primary focus is modern JavaScript development, with experience across **React, Next.js, Node.js, Express, MongoDB, and PostgreSQL**.
 
-I care about **clean architecture, developer experience, performance, and solving problems properly** rather than simply making things work.
+I'm particularly interested in backend architecture, database design, API development, and building applications that remain maintainable as they grow.
+
+Outside the web stack, I'm exploring **React Native and Docker** to broaden how I build, deploy, and ship software.
 
 ---
 
-## Stack
+## What I Build
 
-**Languages**
-
-`JavaScript` `TypeScript` `HTML` `CSS`
-
-**Frontend**
-
-`React` `Next.js` `React Router` `React Native` `Tailwind CSS`
-
-**Backend**
-
-`Node.js` `Express.js` `REST APIs` `JWT` `CORS`
-
-**Data**
-
-`PostgreSQL` `MongoDB` `Firebase` `Prisma` `ER Modeling`
-
-**Infrastructure & Tools**
-
-`Docker` `Git` `GitHub` `Postman` `Vercel` `Netlify` `VS Code`
-
-**Design**
-
-`Figma` `Adobe Photoshop` `Adobe Illustrator`
+```text
+Frontend        React · Next.js · TypeScript · Tailwind CSS
+Backend         Node.js · Express · REST APIs · JWT
+Data            PostgreSQL · MongoDB · Prisma · Firebase
+Mobile          React Native
+Infrastructure  Docker · Vercel · Netlify
+Workflow        Git · GitHub · Postman · VS Code
+Design          Figma · Photoshop · Illustrator
+```
 
 ---
 
 ## Selected Work
 
-> A selection of projects I'm building and maintaining.
+### Projects
 
-### Recent Projects
+My repositories are where I experiment, build, and turn ideas into working products.
 
-**See my pinned repositories below for my latest work.**
+I focus on projects that give me the opportunity to work across the stack—from designing interfaces and APIs to modelling databases and deploying applications.
 
-I use my repositories to experiment with new technologies, build complete products, and explore different approaches to frontend architecture, backend development, databases, and deployment.
+<br />
+
+> **Explore my pinned repositories ↓**
 
 ---
 
-## Engineering Interests
+## Engineering
 
-* Full-stack application architecture
-* RESTful API design
-* Relational database design
-* PostgreSQL & Prisma
-* Modern React patterns
-* Next.js application development
-* Cross-platform development with React Native
-* Docker & containerized applications
-* Performance and maintainability
+### Frontend
+
+Building responsive interfaces with **React, Next.js, TypeScript, and Tailwind CSS**, with an emphasis on reusable components, clean UI architecture, and maintainable code.
+
+### Backend
+
+Designing **RESTful APIs** with Node.js and Express, implementing authentication with JWT, and structuring backend systems for clarity and scalability.
+
+### Database
+
+Working with both relational and NoSQL systems, including **PostgreSQL, MongoDB, Firebase, and Prisma**, with an interest in proper schema design and ER modelling.
+
+### Deployment
+
+Using **Docker, Vercel, and Netlify** to move applications from development to production.
+
+---
+
+## Current Direction
+
+I'm currently going deeper into:
+
+**Next.js · TypeScript · PostgreSQL · Prisma · React Native · Docker**
+
+The goal isn't simply to learn more technologies—it's to become better at **designing and shipping complete software systems.**
 
 ---
 
@@ -84,13 +95,13 @@ I use my repositories to experiment with new technologies, build complete produc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jannatulferdou&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jannatulferdou&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannatulferdou&layout=compact&hide_border=true&theme=transparent" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannatulferdou&layout=compact&hide_border=true&theme=transparent" height="165" />
 
 </div>
 
-<br>
+<br />
 
 <div align="center">
 
@@ -100,20 +111,22 @@ I use my repositories to experiment with new technologies, build complete produc
 
 ---
 
-## Currently
+## Let's Connect
 
-Working across the full stack — from interfaces and APIs to database design and deployment.
-
-Currently exploring deeper use of:
-
-**Next.js · TypeScript · PostgreSQL · Prisma · React Native · Docker**
-
----
+If you're interested in **building products, collaborating on projects, or discussing technology**, feel free to reach out.
 
 <div align="center">
 
-### Let's build something meaningful.
+<a href="https://github.com/jannatulferdou">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/jannatullferdouss/">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 
-**[GitHub](https://github.com/jannatulferdou) · [LinkedIn](https://www.linkedin.com/in/jannatullferdouss/)**
+<br /><br />
+
+**Build thoughtfully. Ship consistently. Keep learning.**
 
 </div>
