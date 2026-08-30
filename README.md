@@ -1,53 +1,113 @@
 <div align="center">
 
-# JANNATUL FERDOUS
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=JANNATUL%20FERDOUS&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%2F%20WEB%20%2F%20MOBILE&descAlignY=62&descSize=18&animation=fadeIn&color=0:0D1117,100:161B22" width="100%"/>
 
-### Full Stack Developer · Web & Mobile
+<br/>
 
-<p>
-  <a href="https://github.com/jannatulferdou">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jannatullferdouss/">
-    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=I+design+it.;I+build+it.;I+ship+it." alt="Typing animation"/>
 
 </div>
 
-<br>
-
-> **I build web and mobile applications with a focus on clean interfaces, solid backend systems, and thoughtful database design.**
-
-<br>
-
-## ✦ Selected Work
+<br/>
 
 <div align="center">
 
-### WEB
-
-**Full-stack applications · SaaS · APIs · Interactive interfaces**
-
-<br>
-
-### MOBILE
-
-**Cross-platform applications built with React Native**
-
-<br>
-
-### EXPERIMENTS
-
-**New technologies · Architecture · Open-source · Side projects**
+`WEB`   `MOBILE`   `BACKEND`   `DATABASE`   `DESIGN`
 
 </div>
 
-<br>
+<br/>
 
 ---
 
-## ✦ Technologies
+<div align="center">
+
+### 01 / PROFILE
+
+</div>
+
+```text id="4l2br4"
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   JANNATUL FERDOUS                                      │
+│                                                         │
+│   Full Stack Developer                                  │
+│                                                         │
+│   I build digital products across the web and mobile,  │
+│   from the first interface to the final deployment.    │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+I enjoy working where **engineering meets design**—building interfaces,
+APIs, databases, and complete applications rather than focusing on only
+one layer of the stack.
+
+---
+
+<div align="center">
+
+### 02 / WHAT I BUILD
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### WEB
+
+Modern web applications
+
+**React · Next.js · TypeScript**
+
+</td>
+
+<td align="center" width="33%">
+
+### MOBILE
+
+Cross-platform applications
+
+**React Native**
+
+</td>
+
+<td align="center" width="33%">
+
+### SYSTEMS
+
+APIs & data systems
+
+**Node · PostgreSQL · Prisma**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 03 / TOOLBOX
+
+</div>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,prisma,firebase,docker,git,github,postman,figma&perline=9"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### 04 / ENGINEERING
+
+</div>
 
 <table>
 <tr>
@@ -61,32 +121,26 @@ TypeScript
 JavaScript
 React Router
 Tailwind CSS
-HTML / CSS
 
 </td>
 
 <td width="50%" valign="top">
-
-**MOBILE**
-
-React Native
-
-<br><br>
 
 **BACKEND**
 
 Node.js
 Express.js
-REST APIs
+RESTful APIs
 JWT Authentication
+CORS
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
-**DATABASE**
+**DATA**
 
 PostgreSQL
 MongoDB
@@ -97,16 +151,15 @@ Database Design
 
 </td>
 
-<td width="50%" valign="top">
+<td valign="top">
 
-**TOOLS & INFRASTRUCTURE**
+**MOBILE / DEVOPS**
 
+React Native
 Docker
-Git / GitHub
-Postman
 Vercel
 Netlify
-VS Code
+Git / GitHub
 
 </td>
 </tr>
@@ -114,44 +167,31 @@ VS Code
 
 ---
 
-## ✦ Development
+<div align="center">
 
-```text
-Frontend       React · Next.js · TypeScript
-Backend        Node.js · Express · REST
-Database       PostgreSQL · MongoDB · Prisma
-Mobile         React Native
-Infrastructure Docker · Vercel · Netlify
-Design         Figma · Photoshop · Illustrator
-```
+### 05 / SELECTED WORK
 
-I enjoy working across the entire development cycle—from designing an interface and modelling data to building APIs, integrating the frontend, and deploying the application.
+</div>
 
----
+<p align="center">
+  <i>My repositories are the workshop.</i>
+</p>
 
-## ✦ Currently
-
-```text
-→ Deepening Next.js & TypeScript
-→ Building with PostgreSQL & Prisma
-→ Developing mobile apps with React Native
-→ Exploring Docker & better deployment workflows
-→ Improving backend architecture
-```
-
----
-
-## ✦ GitHub
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jannatulferdou&show_icons=true&hide_border=true&theme=transparent" width="48%"/>
+**PINNED PROJECTS**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannatulferdou&layout=compact&hide_border=true&theme=transparent" width="48%"/>
+<br/><br/>
 
-<br><br>
+`FULL STACK`    `WEB APPS`    `MOBILE APPS`    `EXPERIMENTS`
 
-<img src="https://streak-stats.demolab.com?user=jannatulferdou&hide_border=true&theme=transparent"/>
+<br/><br/>
+
+<a href="https://github.com/jannatulferdou?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -159,15 +199,62 @@ I enjoy working across the entire development cycle—from designing an interfac
 
 <div align="center">
 
-### WEB · MOBILE · BACKEND · DESIGN
-
-<br>
-
-**Jannatul Ferdous**
-
-<br>
-
-<a href="https://github.com/jannatulferdou">GitHub</a>
-  ·   <a href="https://www.linkedin.com/in/jannatullferdouss/">LinkedIn</a>
+### 06 / NOW
 
 </div>
+
+```text id="x1e8f0"
+NEXT.JS        ████████████████████
+TYPESCRIPT     ████████████████████
+POSTGRESQL     ████████████████████
+PRISMA         ████████████████████
+REACT NATIVE   ████████████████████
+DOCKER         ████████████████████
+```
+
+Going deeper into modern full-stack architecture, relational databases,
+mobile development, and production-ready deployment.
+
+---
+
+<div align="center">
+
+### 07 / GITHUB
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=jannatulferdou&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannatulferdou&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=jannatulferdou&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 08 / LET'S CONNECT
+
+<br/>
+
+<a href="https://github.com/jannatulferdou">
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jannatullferdouss/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<sub>Designing · Developing · Shipping</sub>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:161B22,100:0D1117" width="100%"/>
