@@ -1,103 +1,93 @@
-<!-- ==================== HERO / BANNER ==================== -->
+<!-- ==================== HERO ==================== -->
 
-<p align="center">
-  <img src="https://i.ibb.co.com/vvx0CTZ0/github-cover-photo.jpg" alt="Jannatul Ferdous - Full Stack Developer" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Jannatul Ferdous</h1>
+<img src="https://i.ibb.co.com/vvx0CTZ0/github-cover-photo.jpg" alt="Jannatul Ferdous - Full Stack Developer" width="100%"/>
 
-<h3 align="center">
-  Full Stack Developer • MERN Stack • Next.js • React Native
-</h3>
+<br/>
 
-<p align="center">
+# Hi 👋, I'm Jannatul Ferdous
+
+### Full Stack Developer | MERN Stack | Next.js | React Native
+
+<p>
   <a href="https://github.com/jannatulferdou">
-    <img src="https://komarev.com/ghpvc/?username=jannatulferdou&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=jannatulferdou&label=Profile%20Views&style=flat-square" alt="Profile Views"/>
   </a>
   <a href="https://github.com/jannatulferdou?tab=followers">
-    <img src="https://img.shields.io/github/followers/jannatulferdou?label=Followers&style=flat" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/jannatulferdou?label=Followers&style=flat-square" alt="Followers"/>
   </a>
 </p>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
-I'm a **Full Stack Developer** passionate about building scalable, responsive, and user-focused applications.
+I'm a **Full Stack Developer** passionate about building modern, scalable, and user-friendly web applications.
 
-I enjoy turning ideas into real-world products using modern web and mobile technologies, with a strong focus on **clean code, performance, maintainability, and great user experience**.
+I enjoy turning ideas into real-world products with clean architecture, maintainable code, and intuitive user experiences.
 
-* 🚀 Building full-stack applications with **MERN & Next.js**
-* 📱 Exploring cross-platform mobile development with **React Native**
+* 💻 Building full-stack applications with **MERN & Next.js**
+* 📱 Exploring mobile development with **React Native**
 * 🗄️ Working with **MongoDB & PostgreSQL**
-* 🔗 Designing APIs with **Node.js & Express.js**
-* 🧩 Using **Prisma ORM** for modern database development
-* 🐳 Learning and applying **Docker & containerization**
-* 🎨 Interested in UI/UX, design systems, and developer experience
-* 🌱 Continuously learning and improving my development skills
+* 🔌 Building **RESTful APIs** with Node.js & Express.js
+* 🔐 Implementing authentication with **JWT & Firebase**
+* 🧩 Working with **Prisma ORM**
+* 🐳 Exploring **Docker & containerized development**
+* 🎨 Interested in UI/UX and modern interface design
+* 🌱 Always learning and improving
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend Development
+### Languages
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" width="45" height="45" alt="React Router"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React Native"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 
-### ⚙️ Backend & APIs
+### Frontend
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="55" height="45" alt="Express.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jsonwebtokens/jsonwebtokens-original.svg" width="45" height="45" alt="JWT"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
-**Node.js • Express.js • RESTful APIs • JWT Authentication • CORS**
+**React.js · React Router · Next.js · React Native · Tailwind CSS**
 
-### 🗄️ Database & ORM
+### Backend
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="45" height="45" alt="Prisma"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45" alt="Firebase"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-**MongoDB • PostgreSQL • Prisma ORM • Firebase • ER Diagram / Database Design**
+**Node.js · Express.js · RESTful APIs · JWT Authentication · CORS**
 
-### 🐳 DevOps, Tools & Platforms
+### Database & ORM
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/>
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="45" height="45" alt="Vercel"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,firebase" />
 </p>
 
-**Git • GitHub • Docker • VS Code • Postman • Vercel • Netlify • npm • PowerShell**
+**MongoDB · PostgreSQL · Prisma · Firebase · ER Diagram · Database Design**
 
-### 🎨 Design
+### DevOps & Tools
 
 <p>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45" height="45" alt="Adobe Photoshop"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" width="45" height="45" alt="Adobe Illustrator"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel,netlify" />
 </p>
 
-**Figma • Adobe Photoshop • Adobe Illustrator**
+**Docker · Git · GitHub · VS Code · Postman · Vercel · Netlify · npm · PowerShell**
+
+### Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</p>
+
+**Figma · Adobe Photoshop · Adobe Illustrator**
 
 ---
 
@@ -105,66 +95,87 @@ I enjoy turning ideas into real-world products using modern web and mobile techn
 
 ### 🌱 Climate Forum
 
-A community-focused platform designed to encourage discussions and awareness around climate-related topics.
+A community-focused platform built to encourage discussion and awareness around climate-related topics.
 
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB • Firebase • Tailwind CSS
+**Tech Stack**
 
-> Building features, improving UX, and continuously expanding the platform.
+`React.js` `Node.js` `Express.js` `MongoDB` `Firebase` `Tailwind CSS`
+
+**Highlights**
+
+* Responsive and user-friendly interface
+* Full-stack architecture
+* Authentication & user management
+* Community-focused features
+* Continuous improvement and feature development
+
+---
+
+## 📌 What I'm Currently Working On
+
+```text
+▸ Next.js & TypeScript
+▸ React Native
+▸ PostgreSQL & Prisma
+▸ REST API Architecture
+▸ Docker & Deployment
+▸ Advanced Backend Development
+```
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jannatulferdou&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannatulferdou&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jannatulferdou&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=jannatulferdou&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannatulferdou&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
-## 📈 Contribution Graph
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jannatulferdou&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
+<br/>
 
----
+<div align="center">
 
-## 🌐 Connect With Me
+<img src="https://streak-stats.demolab.com?user=jannatulferdou&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<p align="center">
-  <a href="https://github.com/jannatulferdou">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jannatullferdouss/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+</div>
 
 ---
 
-## 💡 Current Focus
+## 📈 Contribution Activity
 
-```text
-Next.js          ███████████████████░   Advanced
-TypeScript       ██████████████████░░   Improving
-React Native     ███████████████░░░░░   Learning
-PostgreSQL       ███████████████░░░░░   Learning
-Prisma           ███████████████░░░░░   Learning
-Docker           █████████████░░░░░░░   Exploring
-System Design    ███████████░░░░░░░░░   Exploring
-```
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jannatulferdou&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+
+</div>
 
 ---
 
-<h3 align="center">
-  ✨ Building • Learning • Improving • Contributing
-</h3>
+## 🤝 Connect With Me
 
-<p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
-</p>
+<div align="center">
+
+<a href="https://github.com/jannatulferdou">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jannatullferdouss/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Building with purpose. Learning every day. Shipping better.
+
+<br/>
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
